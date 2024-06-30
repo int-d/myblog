@@ -3,3 +3,24 @@
 * hello world 1
 
 * hello world 2
+
+
+![gojo 이미지](img/gojo/gojo.jpg)
+
+
+````python
+print('hello')
+```
+
+
+````py
+print('hello')
+```
+
+```javascript
+console.log('hello')
+```
+
+```js
+consoel.log('hello')
+```
