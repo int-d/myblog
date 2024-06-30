@@ -5,7 +5,7 @@
 * hello world 2
 
 
-![gojo 이미지](/img/gojo/ja.jpg)
+![gojo 이미지](../img/gojo/ja.jpg)
 
 
 ````python
